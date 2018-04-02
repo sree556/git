@@ -28,5 +28,10 @@ public class test {
 		
 		System.out.println(x*y);
 	}
+	
+public void div() {
+		
+		System.out.println(x/y);
+	}
 
 }
