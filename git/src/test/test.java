@@ -4,7 +4,7 @@ public class test {
 
 	int x;
 	int y;
-	
+	int a;
 
 
 	public void test() {
