@@ -4,16 +4,14 @@ public class test {
 
 	int x;
 	int y;
-<<<<<<< HEAD
+	int z;
+
 
 	public void test() {
 		System.out.println(x);
 		System.out.println(y);
+		System.out.println(z);
 	}
 	
-	
-=======
-	int z;
 
->>>>>>> branch 'master' of https://github.com/sree556/git.git
 }
