@@ -17,6 +17,7 @@ public class test {
 	public void add() {
 		
 		System.out.println(x+y);
+		System.out.println(x-y);
 	}
 
 
