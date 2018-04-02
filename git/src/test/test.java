@@ -23,5 +23,10 @@ public class test {
 		
 		System.out.println(x-y);
 	}
+	
+	public void mul() {
+		
+		System.out.println(x*y);
+	}
 
 }
