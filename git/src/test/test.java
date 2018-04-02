@@ -13,5 +13,9 @@ public class test {
 		System.out.println(z);
 	}
 	
+	public void add() {
+		
+		System.out.println(x+y+z);
+	}
 
 }
