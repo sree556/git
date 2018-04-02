@@ -17,8 +17,11 @@ public class test {
 	public void add() {
 		
 		System.out.println(x+y);
+		
+	}
+	public void del() {
+		
 		System.out.println(x-y);
 	}
-
 
 }
