@@ -4,6 +4,7 @@ public class test {
 
 	int x;
 	int y;
+<<<<<<< HEAD
 
 	public void test() {
 		System.out.println(x);
@@ -11,4 +12,8 @@ public class test {
 	}
 	
 	
+=======
+	int z;
+
+>>>>>>> branch 'master' of https://github.com/sree556/git.git
 }
